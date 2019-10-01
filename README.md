@@ -3,14 +3,25 @@ Tools Name : INFORMATION GATHERING
 Language : python2.7
 
 # The Features :
+
 • Traceroute
+
 • Test ping
+
 • DNS Lookup
+
 • Reverse DNS
+
 • Host Record
+
 • Subdomain Finder
+
 • Whois Lookup
+
+• TCP Port Scan
+
 • Web IP Finder
+
 • and much more
 
 
