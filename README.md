@@ -16,13 +16,13 @@ Language : python2.7
 
 # how to install ??
 
-$ pkg update && pkg upgrade
-$ pkg install python2
-$ pkg install git
-$ git clone https://github.com/GUNAWAN18ID/information-gathering
-$ cd information-gathering
-$ pip2 install -r req.txt
-$ python2 inforgat.py
+    $ pkg update && pkg upgrade
+    $ pkg install python2
+    $ pkg install git
+    $ git clone https://github.com/GUNAWAN18ID/information-gathering
+    $ cd information-gathering
+    $ pip2 install -r req.txt
+    $ python2 inforgat.py
 
 Dont Forget Subscribe My Channel Youtube : GUNAWAN ID
 Link Youtube : https://youtube.com/c/GUNAWANID
